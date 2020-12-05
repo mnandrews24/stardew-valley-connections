@@ -49,7 +49,7 @@ https://www.behance.net/gallery/26338543/PANTHEON-Corriere-della-Sera-La-Lettura
 
 https://github.com/Pathoschild/StardewMods/tree/stable/LookupAnything#showcase
 
-### Key Resources Consulted
+## Key Resources Consulted
 **Layout:**
 
 https://stackoverflow.com/questions/44222796/shiny-with-multiple-tabs-and-different-sidebar-in-each-tab
@@ -70,7 +70,7 @@ https://mastering-shiny.org/index.html
 
 And of course, all the official R Shiny documentation available online!
 
-### Sources
+## Sources
 **The Stardew Valley Wiki!**
 
 https://stardewvalleywiki.com/Stardew_Valley_Wiki
@@ -79,5 +79,5 @@ https://stardewvalleywiki.com/Stardew_Valley_Wiki
 
 https://www.reddit.com/r/StardewValley/comments/48s9f6/a_massive_stardew_valley_spreadhseet/
 
-### Public Use
+## Public Use
 All my files, scripts, and datasets are available to download and use, but no one will be able to edit my hosted app as thesis committee members may reference it at that location in the future. Feel free to recreate or create your own!
