@@ -9,7 +9,7 @@ Complete and functional, but with potential for future updates if I revisit it
 
 ## Screenshots
 Image Connections - Sankey Diagram
-![Sankey Diagram](stardew-valley-connections/Sankey_Screenshot.png)
+![Sankey Diagram](Sankey_Screenshot.png)
 
 Community Center Bundles - Dendrogram
 ![Dendrogram](stardew-valley-connections/Dendrogram_Screenshot.png)
@@ -42,44 +42,45 @@ If you do, note that the scripts are NOT connected to the app.r file, but are wh
 
 ## Inspiration
 
-Nadieh Bremer's Ode to Cardcaptor Sakura: 
+**Nadieh Bremer's Ode to Cardcaptor Sakura: **
 
 https://www.visualcinnamon.com/portfolio/cardcaptor-sakura
 
-Pantheon Alluvial Diagram on Behance: 
+**Pantheon Alluvial Diagram on Behance: **
 
 https://www.behance.net/gallery/26338543/PANTHEON-Corriere-della-Sera-La-Lettura-181
 
-Lookup Anything Mod for Stardew Vallley:
+**Lookup Anything Mod for Stardew Vallley:**
 
 https://github.com/Pathoschild/StardewMods/tree/stable/LookupAnything#showcase
 
 ### Key Resources Consulted
-Layout:
+**Layout:**
 
 https://stackoverflow.com/questions/44222796/shiny-with-multiple-tabs-and-different-sidebar-in-each-tab
 
-Reactive Filters:
+**Reactive Filters:**
 
 https://www.davidsolito.com/post/conditional-drop-down-in-shiny/
 
 ** Note that the tutorial didn't fully work, but the 3rd comment by Arnaud Gaborit does! 
 
-Sankey Diagram Data Structure:
+**Sankey Diagram Data Structure:**
 
 https://stackoverflow.com/questions/57332088/create-shiny-app-with-sankey-diagram-that-reacts-to-selectinput
 
-Mastering Shiny by Hadley Wickham:
+**Mastering Shiny by Hadley Wickham:**
 
 https://mastering-shiny.org/index.html
 
 And of course, all the official R Shiny documentation available online!
 
 ### Sources
-The Stardew Valley Wiki!
+**The Stardew Valley Wiki!**
+
 https://stardewvalleywiki.com/Stardew_Valley_Wiki
 
-Some of my datasets were based on or supplemented with data from reddit user u/LasagnaTheories:
+**Some of my datasets were based on or supplemented with data from reddit user u/LasagnaTheories:**
 
 https://www.reddit.com/r/StardewValley/comments/48s9f6/a_massive_stardew_valley_spreadhseet/
 
