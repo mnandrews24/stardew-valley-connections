@@ -12,10 +12,10 @@ Image Connections - Sankey Diagram
 ![Sankey Diagram](Sankey_Screenshot.png)
 
 Community Center Bundles - Dendrogram
-![Dendrogram](stardew-valley-connections/Dendrogram_Screenshot.png)
+![Dendrogram](Dendrogram_Screenshot.png)
 
 Character Schedules - Gantt Chart
-![Gantt](stardew-valley-connections/Gantt_Screenshot.png)
+![Gantt](Gantt_Screenshot.png)
 
 
 
