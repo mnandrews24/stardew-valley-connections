@@ -42,11 +42,11 @@ If you do, note that the scripts are NOT connected to the app.r file, but are wh
 
 ## Inspiration
 
-**Nadieh Bremer's Ode to Cardcaptor Sakura: **
+**Nadieh Bremer's Ode to Cardcaptor Sakura:**
 
 https://www.visualcinnamon.com/portfolio/cardcaptor-sakura
 
-**Pantheon Alluvial Diagram on Behance: **
+**Pantheon Alluvial Diagram on Behance:**
 
 https://www.behance.net/gallery/26338543/PANTHEON-Corriere-della-Sera-La-Lettura-181
 
