@@ -8,16 +8,11 @@ Created as my Masters thesis for the Information and Data Visualization program 
 Complete and functional, but with potential for future updates if I revisit it
 
 ## Screenshots
-Image Connections - Sankey Diagram
 ![Sankey Diagram](Sankey_Screenshot.png)
 
-Community Center Bundles - Dendrogram
 ![Dendrogram](Dendrogram_Screenshot.png)
 
-Character Schedules - Gantt Chart
 ![Gantt](Gantt_Screenshot.png)
-
-
 
 ## Built With R Shiny
 #### Libraries required:
