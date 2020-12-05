@@ -29,7 +29,7 @@ Complete and functional, but with potential for future updates if I revisit it
 * Three interactive charts
 
 ## How to Use
-Access my most current version of the app at: mandrews.shinyapps.io/stardewvalley/
+Access my most current version of the app at:  https://mandrews.shinyapps.io/StardewValleyConnections/
 
 Or feel free to download the app.r file, associated R scripts, and my datasets! 
 
