@@ -347,8 +347,3 @@ server <- function(input, output, session){
 }
 # Run the application 
 shinyApp(ui = ui, server = server)
-
-# Publish to shinyapps.io
-library(rsconnect)
-rsconnect::deployApp('C:/Users/Mnandrews24/Documents/MICA/Thesis/R/ShinyApp/StardewValley')
-
